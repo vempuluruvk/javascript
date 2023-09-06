@@ -25,5 +25,4 @@ let j = 0;
 do {
     console.log(name);
     j++;
-} while (j<=27
-   )
+} while (j<=27)
